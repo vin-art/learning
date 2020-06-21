@@ -3,3 +3,7 @@ Revision sheet for github commands
 Or is it git commands?
 
 Either way, I'm writing about github operations and checking through videos.
+
+There seem to be some commands and we will get to them in a bit.
+
+Hopefully.
